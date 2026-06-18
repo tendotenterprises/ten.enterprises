@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Example Project",
+    "type": "Web Development",
+    "description": "A short description of what you built and what it does for the client.",
+    "image": "/images/portfolio/example.jpg",
+    "url": "https://example.com"
+  }
+]
